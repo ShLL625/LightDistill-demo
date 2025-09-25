@@ -17,6 +17,7 @@ python demo_cpu.py
 The code can also be run in Colab without extra packages.
 
 The follow files would be produced:
+```
 LightDistill_env.png
 gt_relit.png
 ALP_relit.png
@@ -28,3 +29,4 @@ Comparison_relit.png
 sphere_2D_visual.png
 sphere2envmap_visual.png
 combined_visual.png
+```
