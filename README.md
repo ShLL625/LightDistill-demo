@@ -1,6 +1,8 @@
 # LightDistill: Predicting View-Dependent Lighting from a Single Image - demo
 <img src='LightDistill_1stphase.png'/>
+Obtain the triangle mesh, 2D texture and environment maps under various illumination by nvdiffrec for 2nd phase learning.
 <img src='LightDistill_2ndphase.png'/>
+Train the LightDistill MLP with the outputs from 1st phase to stack the local light probes for predicted enviroment map.
 
 ## Run a quick simplified demo
 
